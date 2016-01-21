@@ -104,3 +104,7 @@ Ce n'est pas l'approche à priviligier pour un développeur (voir les task runne
 * [Grunt LESS](https://github.com/gruntjs/grunt-contrib-less)
 * [Gulp LESS](https://github.com/plus3network/gulp-less)
 * [Bootstrap en version LESS](https://github.com/twbs/bootstrap/tree/master/less)
+
+##Historique
+
+* 2016-01-21 : versionné sous GIT
